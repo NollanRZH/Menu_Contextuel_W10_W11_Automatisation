@@ -1,3 +1,7 @@
+![Windows](https://img.shields.io/badge/Windows-11-blue)
+![Batch](https://img.shields.io/badge/Language-Batch-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Menu_Contextuel_W10_W11_Automatisation
 Scripts .bat pour restaurer l'ancien menu contextuel (clic droit) de Windows 10 sous Windows 11 dans l'explorateur, ainsi que le script pour revenir au menu contextuel moderne.
 
