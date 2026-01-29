@@ -66,3 +66,23 @@ Scripts .bat pour restaurer l'ancien menu contextuel (clic droit) de Windows 10 
 
 
 <hr/>
+
+# 🖼️ Aperçu visuel
+
+
+### Avant (menu Windows 11)
+
+
+![Avant](images/avant_menu_w11.png)
+
+
+### Après (menu classique)
+
+
+![Après](images/apres_menu_classique.png)
+
+
+### Bouton "Afficher plus d’options"
+
+
+![Afficher plus d’options](images/afficher_plus_options.png)
