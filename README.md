@@ -24,8 +24,8 @@ Scripts .bat pour restaurer l'ancien menu contextuel (clic droit) de Windows 10 
 
 <pre><code>.
 ├─ scripts/
-│ ├─ Menu_Contextuel_Classique_W11.bat
-│ └─ Menu_Contextuel_W11_Modern.bat
+│ ├─ Menu_Contextuel_Classique_de_W10_pour_W11.bat
+│ └─ Menu_Contextuel_W11_Moderne.bat
 ├─ images/
 │ ├─ avant_menu_w11.png
 │ ├─ apres_menu_classique.png
